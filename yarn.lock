@@ -4444,9 +4444,9 @@ color-name@^1.0.0, color-name@~1.1.4:
   integrity sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==
 
 color-string@^1.5.4:
-  version "1.5.4"
-  resolved "https://registry.yarnpkg.com/color-string/-/color-string-1.5.4.tgz#dd51cd25cfee953d138fe4002372cc3d0e504cb6"
-  integrity sha512-57yF5yt8Xa3czSEW1jfQDE79Idk0+AkN/4KWad6tbdxUmAs3MvjxlWSWD4deYytcRfoZ9nhKyFl1kj5tBvidbw==
+  version "1.5.5"
+  resolved "https://registry.yarnpkg.com/color-string/-/color-string-1.5.5.tgz#65474a8f0e7439625f3d27a6a19d89fc45223014"
+  integrity sha512-jgIoum0OfQfq9Whcfc2z/VhCNcmQjWbey6qBX0vqt7YICflUmBCh9E9CiQD5GSJ+Uehixm3NUwHVhqUAWRivZg==
   dependencies:
     color-name "^1.0.0"
     simple-swizzle "^0.2.2"
@@ -4669,9 +4669,9 @@ cp-file@^7.0.0:
     p-event "^4.1.0"
 
 cpy@^8.1.1:
-  version "8.1.1"
-  resolved "https://registry.yarnpkg.com/cpy/-/cpy-8.1.1.tgz#066ed4c6eaeed9577df96dae4db9438c1a90df62"
-  integrity sha512-vqHT+9o67sMwJ5hUd/BAOYeemkU+MuFRsK2c36Xc3eefQpAsp1kAsyDxEDcc5JS1+y9l/XHPrIsVTcyGGmkUUQ==
+  version "8.1.2"
+  resolved "https://registry.yarnpkg.com/cpy/-/cpy-8.1.2.tgz#e339ea54797ad23f8e3919a5cffd37bfc3f25935"
+  integrity sha512-dmC4mUesv0OYH2kNFEidtf/skUwv4zePmGeepjyyJ0qTo5+8KhA1o99oIAwVVLzQMAeDJml74d6wPPKb6EZUTg==
   dependencies:
     arrify "^2.0.1"
     cp-file "^7.0.0"
